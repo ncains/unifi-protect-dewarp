@@ -1,0 +1,11 @@
+{
+  "domain": "unifi_dewarp",
+  "name": "UniFi Protect Dewarp Camera",
+  "documentation": "https://github.com/ncains/ha-unifi-dewarp",
+  "issue_tracker": "https://github.com/ncains/ha-unifi-dewarp/issues",
+  "codeowners": ["@ncains"],
+  "dependencies": ["unifiprotect"],
+  "version": "0.1.0",
+  "iot_class": "local_polling",
+  "requirements": []
+}
